@@ -1,0 +1,5 @@
+- Stanford 224N https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+- cs25 andrej karpathy https://www.youtube.com/watch?v=XfpMkf4rD6E
+- Mask token article https://h2o.ai/wiki/mask-token/
+- Pretraining language model https://www.youtube.com/watch?v=DGfCRXuNA2w
+- Video https://www.youtube.com/watch?v=thr4-hgLhi8

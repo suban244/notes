@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "3abca4b005629f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "36bfb8d19b3414ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc401e7e3d7f2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84a24815db3051a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abe7f82d36236d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "33633bfc27052ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd79879c1159db7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13e236daad9df150",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1873800bfec2192",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "ffc99e02c6ed2e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "75964e88f3b0c630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64be94b574fae9d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd405c8e74da374d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63e9360c8adf08a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14a848f8087c1fc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14a848f8087c1fc5",
+  "lastOpenFiles": [
+    "NLP/BERT.md",
+    "Vision/Vision Transformers (VIT).md",
+    "NLP/Subword Tokenization.md",
+    "Untitled.md",
+    "Topics.md",
+    "Datasets.md",
+    "Vision/SWIM.md",
+    "Vision/Segmentation.md",
+    "Vision/Image Color Modes.md",
+    "Donut Peering.md",
+    "attachments/Pasted.md",
+    "Vision/attachments/Pasted image 20231218151913.png",
+    "Vision/attachments",
+    "Vision/Untitled.md",
+    "Vision/Vision Transformers.md",
+    "NLP/Project.md",
+    "NLP/Next Word Prediction vs Masked Token Prediction.md",
+    "NLP/Named Entity Recognition.md",
+    "NLP/Resources.md",
+    "NLP/random linsk.md",
+    "NLP/Language Modelling.md",
+    "attachments/Pasted image 20231210095058.png",
+    "attachments/Pasted image 20231210095041.png",
+    "attachments/Pasted image 20231210094948.png",
+    "attachments/Pasted image 20231210093229.png",
+    "NLP/attachments/Pasted image 20231207122749.png",
+    "NLP/attachments/Pasted image 20231207122433.png",
+    "NLP/attachments/Pasted image 20231206145954.png",
+    "NLP/attachments/Pasted image 20231206145941.png",
+    "NLP/attachments/Pasted image 20231206145641.png",
+    "attachments",
+    "NLP/Next Word Prediction.md",
+    "Untitled.canvas",
+    "Vision",
+    "NLP",
+    "NLP/attachments",
+    "Vision/nnU-Net.md"
+  ]
+}
