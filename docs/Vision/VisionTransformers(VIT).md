@@ -8,8 +8,8 @@
 	- require less computation
 - Why Transformers?
 	- Because *Transformers*
-	- Also because they lack [[Vision Transformers (VIT)#Inductive Bias]], present in CNNs
-	- And if we train on large enough dataset, we do not need any [[Vision Transformers (VIT)#Inductive Bias]]
+	- Also because they lack [[VisionTransformers(VIT)#Inductive Bias]], present in CNNs
+	- And if we train on large enough dataset, we do not need any [[VisionTransformers(VIT)#Inductive Bias]]
 ![[Pasted image 20231218151913.png]]
 ## Related works
 - [[BERT]] trained using self-supervised pre-training task, [[GPT]] with language modeling
