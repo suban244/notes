@@ -1,3 +1,4 @@
+Vision Transformers
 # Overview
 - Originally introduced at https://arxiv.org/abs/2010.11929
 - Only Encoder used, proposes a pure transformer model for sequence of image patches.
