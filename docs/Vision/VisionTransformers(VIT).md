@@ -49,6 +49,10 @@ $\rightarrow$: Reshaping
 $\Rightarrow$: Trainable Linear projection
 We add an extra token as the {class} token
 - Use of **1 D** Learnable Positional Embedding, on later analysis, they have some aspect of the  2 D shape
+### Positional Embedding
+- **1 D** positional embedding.
+- Trained on lower Image size, fine tuned on higher
+- Interpolation done for positional embeddings
 ### Pre-Training
 - Use of MLP with one hidden layer, GLUE non linearity
 - Use of $z_l^0$
