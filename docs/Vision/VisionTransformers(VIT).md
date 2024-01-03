@@ -1,3 +1,8 @@
+---
+tags:
+  - Vision-Transformers
+  - Google
+---
 Vision Transformers
 # Overview
 - Originally introduced at https://arxiv.org/abs/2010.11929

@@ -46,7 +46,7 @@ NLP
 Computer Vision (esp. Medical Imaging) 
  - [[Segmentation]]
  - [[VisionTransformers(VIT)]]
- - [[SWIM]]
+ - [[SWIN]]
  
  
  - Object Detection 

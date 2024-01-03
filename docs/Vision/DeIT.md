@@ -1,4 +1,10 @@
-Data efficient image transformers & distillation through attention
+---
+tags:
+  - Vision-Transformers
+  - Knowledge-Distillation
+  - facebook
+---
+Data efficient [image transformers](VisionTransformers(VIT)) & distillation through attention
 - [Heavy image augmentation](Deit#Augmentation)
 - [Distillation token](DeIT#Distillation-Token)
 - [Regularization](DeIT#Regularization)
