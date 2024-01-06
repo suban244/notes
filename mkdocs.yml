@@ -2,7 +2,7 @@ site_name: DL notes
 
 theme:
     # name: 'material'
-    name: simple-blog
+    name: 'simple-blog'
     palette:
 
     # # Light mode
