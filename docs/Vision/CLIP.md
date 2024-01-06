@@ -9,7 +9,7 @@ tags:
 - Vision and Language representation
 - [Zero shot classifier](CLIP#Zero-Shot)
 	- Uses natural language as a flexible prediction space
-- Two encoders: one for text and another for image
+- Two encoders: one for text and another for image(Resnet or [[ViT]])
 	- contrastive learning
 - Doesn't directly optimize for the benchmark
 

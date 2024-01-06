@@ -2,7 +2,7 @@
 tags:
   - Vision-Transformers
 ---
-A [Vision Transformer](VisionTransformers(VIT)) with a hierarchical structure.
+A [Vision Transformer](ViT.md) with a hierarchical structure.
 - Starts with smaller patches $(4\times4\times3)$
 - Patches are [merged](SWIN#Merging-Layer) to form bigger patches
 **Linearly scaling** [Shifted Window](SWIN#Shifted-Window) attention mechanism

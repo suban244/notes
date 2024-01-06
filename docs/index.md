@@ -1,6 +1,6 @@
 # Obsidian Notes
 Hello there, we got some notes here.
-Get started with [[VisionTransformers(VIT)]]
+Get started with [[ViT]]
 
 # Topics
 Learning Resources of Research Interns 
@@ -49,7 +49,7 @@ NLP
 
 Computer Vision (esp. Medical Imaging) 
  - [[Segmentation]]
- - [[VisionTransformers(VIT)]]
+ - [[ViT]]
  - [[SWIN]]
  
  
@@ -57,12 +57,10 @@ Computer Vision (esp. Medical Imaging)
  - Use pretrained models on each of the above tasks 
 
 Multimodal Learning (Vision and Language; VLM; VLSM) 
-
-    CLIP and its variants (OpenCLIP, MetaCLIP) (VLM) 
+- [[CLIP]] and its variants (OpenCLIP, MetaCLIP) (VLM) 
+- [[CRIS]]
 
     VLSMs 
-
-    CRIS 
 
     CLIPSeg 
 
