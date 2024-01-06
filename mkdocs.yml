@@ -1,26 +1,27 @@
 site_name: DL notes
 
 theme:
-    name: 'material'
+    # name: 'material'
+    name: simple-blog
     palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+    # # Light mode
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   primary: pink
+    #   accent: indigo
+    #   toggle:
+    #     icon: material/toggle-switch-off-outline
+    #     name: Switch to dark mode
 
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    # # Dark mode
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: slate
+    #   primary: blue
+    #   accent: blue
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
 
 # Extensions
 markdown_extensions:

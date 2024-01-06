@@ -1,4 +1,8 @@
-# Key idea
+---
+tags:
+  - Google
+---
+
 - Some mash of semi supervised learning, transfer learning
 - We have a 
 	- **Small dataset**: ImageNet with labels
